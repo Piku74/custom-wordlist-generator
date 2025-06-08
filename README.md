@@ -6,4 +6,4 @@
 ### Usage
 
 ```bash
-python3 massive_wordgen.py
+python3 word_gen3.py
