@@ -86,6 +86,3 @@ This tool is for **cybersecurity awareness and educational purposes only**. Do *
 
 ---
 
-## 📄 License
-
-MIT License
